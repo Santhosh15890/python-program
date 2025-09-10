@@ -1,0 +1,12 @@
+tup1=(0,1,2)
+tup2=("python","greeks")
+tup3=(tup1+tup2)
+print(tup3)
+tup2=("python")*5
+print(tup2)
+U=(2,3,4,5,6,7)
+print(U[0:3])
+print(U[0:5])
+print(U[-1])
+print(U[::-1])
+print(U[3:])
